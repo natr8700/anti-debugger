@@ -1,0 +1,2 @@
+# anti-debugger
+protector 
