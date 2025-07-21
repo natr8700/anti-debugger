@@ -1,9 +1,6 @@
 ﻿#include <iostream>
 #include "../../anti debug/file.hpp"
 
-/* What you need to do to use anti debugger is very simple, you just need to call it with this code. */
-/* Contact Discord : Emree#2023 */
-
 int main()
 {
 
