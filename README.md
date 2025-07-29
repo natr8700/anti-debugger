@@ -24,6 +24,6 @@ This project provides robust techniques to protect Windows executables from reve
 
 ## 🛠️ Built With
 
-- **Language**: C / C++
+- **Language**: C++
 - **Platform**: Windows x86 / x64
 - **Tools**: Visual Studio, Windows API
